@@ -1,27 +1,78 @@
-# Simplus Grid Tool (Version: v2025-Sep-11)
+## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+**GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
+It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
 
-Simplus Grid Tool (SimplusGT in short) is an open-source tool for dynamic analysis and time-domain simulation of power systems (large-scale 100+ bus systems, SG-IBR-composite systems, AC or DC or hybrid AC-DC systems, HVDC systems, etc). The tool is based on Matlab/Simulink.
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
-![](https://raw.githubusercontent.com/Future-Power-Networks/Simplus-Grid-Tool/master/Documentations/Figures/SoftwareExample.png)
+<table>
+	<tr>
+		<th>
+			Repository
+		</th>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Views
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yy-Hu-xjtu/my-views-counter/tree/master/readme/1084707163/year.md">
+				Simplus-Grid-Tool
+			</a>
+		</td>
+		<td>
+			2025/10/26 3:27 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yy-Hu-xjtu/my-views-counter/raw/master/graph/1084707163/small/year.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yy-Hu-xjtu/my-views-counter/tree/master/readme/1084704624/year.md">
+				test
+			</a>
+		</td>
+		<td>
+			2025/10/26 3:27 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yy-Hu-xjtu/my-views-counter/raw/master/graph/1084704624/small/year.png" height="20"> 4
+		</td>
+	</tr>
+</table>
 
-## System Requirement
+<small><i>Last updated on 2025/10/28 3:33 PM UTC</i></small>
 
-Matlab 2020a or later, with Simulink, Simscape/PowerSystem.
+## ✂️Copy and 📋 Paste
+### Total Views Badge
+[![Image of https://github.com/yy-Hu-xjtu/my-views-counter](https://github.com/yy-Hu-xjtu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yy-Hu-xjtu/my-views-counter)
 
-## Quick Start
+```readme
+[![Image of https://github.com/yy-Hu-xjtu/my-views-counter](https://github.com/yy-Hu-xjtu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/yy-Hu-xjtu/my-views-counter)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
 
-Copy the repository (download all codes) into your PC, and run "InstallSimplusGT.m" by Matlab. That's all! 
-
-Run "UserMain.m" and you will automatically get results of an example 4-bus power system whose default parameters are saved in "UserData.xlsm". More examples can be found in "Examples" folder.
-
-## Documentations
-
-The comments in "UserMain.m" and "UserData.xlsm" are very important. Please read them carefully. More details can be found in manuals in "Documentations" folder.
-
-## Citation
-
-We would be very grateful if you could cite the toolbox when you used it in your publications and projects as "github.com/Future-Power-Networks/Simplus-Grid-Tool".
-
-## Contact
-
-Yitong Li (yitongli@xjtu.edu.cn), Yunjie Gu (yunjie.gu@imperial.ac.uk).
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
